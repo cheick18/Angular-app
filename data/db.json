@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Printer modifier",
+      "price": 3200,
+      "checked": true
+    },
+    {
+      "id": "3",
+      "name": "Iphone",
+      "price": "5000",
+      "checked": false
+    },
+    {
+      "id": "4",
+      "name": "Iphone",
+      "price": "5000",
+      "checked": true
+    },
+    {
+      "id": "1695",
+      "name": "t",
+      "price": "5",
+      "checked": true
+    },
+    {
+      "id": "aea0",
+      "name": "t",
+      "price": "5",
+      "checked": true
+    },
+    {
+      "id": "6d55",
+      "name": "t",
+      "price": "5",
+      "checked": true
+    },
+    {
+      "id": "b567",
+      "name": "t",
+      "price": "5",
+      "checked": true
+    },
+    {
+      "id": "ec44",
+      "name": "k",
+      "price": "15",
+      "checked": false
+    },
+    {
+      "id": "d62e",
+      "name": "k",
+      "price": "15",
+      "checked": false
+    },
+    {
+      "id": "7e82",
+      "name": "k",
+      "price": "15",
+      "checked": true
+    },
+    {
+      "id": "e85d",
+      "name": "k",
+      "price": "15",
+      "checked": false
+    },
+    {
+      "id": "743e",
+      "name": "k",
+      "price": "15",
+      "checked": true
+    },
+    {
+      "id": "da5b",
+      "name": "t",
+      "price": 0,
+      "checked": false
+    },
+    {
+      "id": "3d80",
+      "name": "t4",
+      "price": "7",
+      "checked": false
+    }
+  ]
+}
