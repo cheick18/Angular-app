@@ -1,5 +1,5 @@
-# Getion de pruid avec angular
-Application de gestion de produit unissant un serveur un backend basé sur Json-server
+# Getion de produits avec angular
+Application de gestion de produits unissant un serveur un backend basé sur Json-server
 
 # Données json utilisées pour le backend
 ![ Données json utilisées pour le backend](https://example.com/your-image.jpg)
